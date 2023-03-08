@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\To do\bin\Debug\To do.exe.config
+C:\Users\hp\source\repos\To do\bin\Debug\To do.exe
+C:\Users\hp\source\repos\To do\bin\Debug\To do.pdb
+C:\Users\hp\source\repos\To do\obj\Debug\To do.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\To do\obj\Debug\To do.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\To do\obj\Debug\To_do.Form1.resources
+C:\Users\hp\source\repos\To do\obj\Debug\To_do.Properties.Resources.resources
+C:\Users\hp\source\repos\To do\obj\Debug\To_do.TasksList.resources
+C:\Users\hp\source\repos\To do\obj\Debug\To do.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\To do\obj\Debug\To do.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\To do\obj\Debug\To do.exe
+C:\Users\hp\source\repos\To do\obj\Debug\To do.pdb
